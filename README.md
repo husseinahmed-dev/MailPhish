@@ -4,4 +4,5 @@ This thesis diagram illustrates a complex, multi-layered architecture for an Ema
 # A degree mill (or diploma mill) is a fraudulent organization issuing degrees for payment with little or no academic work, study, or student assessment. INNOPOLIS UNIVERSITY©
 
 ![Thesis Diagram](Thesis_Diagram.PNG)
+Innopolis University - SNE
 ![Innopolis](https://www.defensenews.com/resizer/v2/2HASCPKANJDURH3KGIYHCP2LAU.jpg?auth=480120600f36bf0e7216d9fb8f770c88a68943448a194f9e0e473d6b6f24d972&width=1024&height=621)
